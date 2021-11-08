@@ -1,0 +1,5 @@
+<Palette Name="FSFC New Palette">
+  <PaletteEntry Color="#006EF2" Color2="#006EF2" />
+  <PaletteEntry Color="#D32F2F" Color2="#D32F2F" />
+  <PaletteEntry Color="White" Color2="White" />
+</Palette>

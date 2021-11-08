@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblAgreement.Text" xml:space="preserve">
+    <value>I, the Data Subject, expressly give my consent to the company to collect, process, store, retain, update, retrieve, my personal information and sensitive personal information indicated in my employment application records as well as the records once I get hired. I undertake that I was made aware that the data and or attendance records that may be taken manually or by biometrics when employed are necessary for payroll purposes. That the HR department or any of its personnel, as well as the compensation and benefits processor, are allowed to access and validate the data given in my application and future employment records. The processing of said information may be made through the internal database, online, cloud storage, or through a sub-contractor. I was made aware of my rights as a Data Subject under the Data Privacy Act.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnOK.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        /w8m/QM5gBaVRlM76gAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="Timer_Date.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>

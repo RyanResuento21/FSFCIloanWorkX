@@ -1,0 +1,240 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FSFC_System
+</name>
+</assembly>
+<members>
+<member name="P:FSFC_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Approve">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Avatar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Calculator">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Chat">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Check">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Cheque">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Connect">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Cut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Dislike">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Email">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.F">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.F1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.FSPH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Handshake">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.ID">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.iLoanWorkx_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.iLoanWorkX_Official_Logo_1920x1080___LinkedIn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Journal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Ledger">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Lock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Modify">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Payment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Person">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.PlaceHolder">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Receive">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Recycle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Refresh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Selected">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Sketch">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Unlock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Upload">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FSFC_System.My.Resources.Resources.Validate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:FSFC_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:FSFC_System.DSCamCapture.IsConnected">
+	<summary>
+ Indicates if this instance is currently connected to a device.
+ </summary>
+</member><member name="P:FSFC_System.DSCamCapture.IsRunning">
+	<summary>
+ Indicates if the capture graph is running or paused/stoped.
+ </summary>
+</member><member name="T:FSFC_System.DSCamCapture.FrameSizes">
+	<summary>
+ Enum of common video frame sizes. Used to set the (frameSize) parameter of the (ConnectToDevice) function.
+ </summary>
+</member><member name="M:FSFC_System.DSCamCapture.ConnectToDevice(System.Int32,System.Int32,System.Drawing.Size,FSFC_System.DSCamCapture.FrameSizes,System.IntPtr)">
+	<summary>
+ Connects this instance of the Capture class to the specified capture device index.
+ </summary>
+	<param name="deviceIndex">The Zero Based Index Of Capture Device To Connect To.</param>
+	<param name="frameRate">The Capture Rate. Equivilant to FPS.</param>
+	<param name="windowSize">The size of the visible video window.</param>
+	<param name="frameSize">The size used for the video frames. This will also be the size images are saved as.</param>
+	<param name="hParent">A Handle To The Parent Window.</param>
+</member><member name="M:FSFC_System.DSCamCapture.ResizeWindow(System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Used to resize and/or change the location of the visible video window.
+ </summary>
+	<param name="xLoc">The new X location.</param>
+	<param name="yLoc">The new Y location.</param>
+	<param name="sWidth">The new Width of the window.</param>
+	<param name="sHeight">The new Height of the window.</param>
+	<remarks></remarks>
+</member><member name="M:FSFC_System.DSCamCapture.GetCaptureDevices">
+	<summary>
+ Returns a string array containing all video capture device names in the device index order that are currently available.
+ </summary>
+</member><member name="M:FSFC_System.DSCamCapture.Start">
+	<summary>
+ Starts the capture graph.
+ </summary>
+</member><member name="M:FSFC_System.DSCamCapture.Pause">
+	<summary>
+ Pauses the capture graph. Running the graph takes up a lot of resources. (Pause) it when it isn't needed at the time and (Start) it when needed again.
+ </summary>
+</member><member name="M:FSFC_System.DSCamCapture.SaveCurrentFrame(System.String,System.Drawing.Imaging.ImageFormat)">
+	<summary>
+ Saves an image file of the current video frame and passes the captured image to the (capImage) parameter in the (FrameSaved) event.
+ </summary>
+	<param name="strFileName">The full path, name, and extension to save the image as.</param>
+	<param name="iFormat">The image format for saving the file. Make sure the file extension matches.</param>
+</member><member name="M:FSFC_System.DSCamCapture.GetCurrentFrame">
+	<summary>
+ Gets the current video frame and passes the captured image as the (capImage) parameter in the (FrameCaptured) event.
+ </summary>
+</member>
+</members>
+</doc>
