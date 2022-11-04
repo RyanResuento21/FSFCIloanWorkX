@@ -43,6 +43,7 @@ Public Class FrmBorrowerDashboard
     Public ToDate As Date = Date.Now
 
     Private Sub FrmBorrowerDashboard_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        MsgBox("Hello World")
         GetGridAppearance({GridView1})
         FixUI(AllowStandardUI)
         Icon = My.Resources.iLoanWorkX_ico
