@@ -44,6 +44,7 @@ Public Class FrmBorrowerDashboard
 
     Private Sub FrmBorrowerDashboard_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         MsgBox("Hello World")
+        Dim x As Integer
         GetGridAppearance({GridView1})
         FixUI(AllowStandardUI)
         Icon = My.Resources.iLoanWorkX_ico
