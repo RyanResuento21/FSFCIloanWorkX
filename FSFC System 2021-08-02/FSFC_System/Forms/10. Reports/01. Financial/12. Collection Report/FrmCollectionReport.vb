@@ -1,8 +1,11 @@
 ﻿Imports DevExpress.XtraReports.UI
 Public Class FrmCollectionReport
 
+    
     Public vPrint As Boolean
     Dim FirstLoad As Boolean = True
+    Dim Change As String
+    Dim Number As Integer
     Dim DT_Cancelled As New DataTable
     Private Sub FrmCollectionReport_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         GetGridAppearance({GridView1, GridView2})
